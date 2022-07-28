@@ -1,7 +1,7 @@
 '''
 Q1- Block Word problem (DFS algorithm)
 
-Made By: Gaurav Baweja
+Made By: Rohit Singla
 '''
 import copy as cp
 
