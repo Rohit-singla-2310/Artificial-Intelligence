@@ -1,7 +1,7 @@
 '''
 Q2- Water-JUG problem
 
-Made By: Gaurav Baweja
+Made By: Rohit Singla
 '''
 import copy as cp
 
