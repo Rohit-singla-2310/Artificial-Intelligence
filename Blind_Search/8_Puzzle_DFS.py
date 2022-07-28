@@ -1,7 +1,7 @@
 '''
 Q1- 8 puzzle problem
 
-Made By: Gaurav Baweja, 102097005, CSE4
+Made By: Rohit Singla
 '''
 import copy as cp
 
