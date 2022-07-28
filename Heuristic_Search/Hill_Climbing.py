@@ -1,7 +1,7 @@
 '''
 Q2- 8 puzzle problem (Hill Climbing searching algorithm)
 
-Made By: Gaurav Baweja
+Made By: Rohit Singla
 '''
 import copy as cp
 
