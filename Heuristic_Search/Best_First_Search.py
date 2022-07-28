@@ -1,7 +1,7 @@
 '''
 Q1- 8 puzzle problem (BEST FIRST SEARCH)
 
-Made By: Gaurav Baweja
+Made By: Rohit Singla
 '''
 import copy as cp
 
