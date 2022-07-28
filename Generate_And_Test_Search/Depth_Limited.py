@@ -1,7 +1,7 @@
 '''
 Q3- Block Word problem (Depth Limited Search algorithm)
 
-Made By: Gaurav Baweja
+Made By: Rohit Singla
 '''
 import copy as cp
 
