@@ -1,7 +1,7 @@
 '''
 Q5- Shortest path in Graph problem (Uniform Cost search algorithm)
 
-Made By: Gaurav Baweja
+Made By: Rohit Singla
 '''
 
 def FindMin(queue):
